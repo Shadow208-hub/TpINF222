@@ -19,7 +19,7 @@ route.py         # Definition des routes et de la logique metier
 database.py      # Configuration de la session et de la connexion DB
 .blog.db         # Base de donnees SQLite (généré au premier lancement)
 
-Installation et Lancement    Cloner le depott :    Bash  :git clone https://github.com/Shadow208-hub/votre-repo.gitcd votre-repo
+Installation et Lancement    Cloner le depott :    Bash  :git clone https://github.com/Shadow208-hub/TpINF222
 Creer un environnement virtuel :
 Bash :python -m venv venvsource venv/bin/activate 
 Installer les dependances :Bash
